@@ -31,5 +31,3 @@ pillow,pyqt5,pyqt5_tools,numpy,tensorflow,plt
 2）Tensorflow：2.80 CUDA：11.1 cuDNN：8.1.0 RTX3060
 
 需要注意，tensorflow版本和CUDA，cuDNN版本要相互匹配，不然无法训练，与提取。
-
-3）ps：如还有错误可以查看report——软件包部分，或者麻烦老师联系我，联系方式见报告第一页，谢谢。
