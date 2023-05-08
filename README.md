@@ -1,5 +1,3 @@
-pythonProject1为源代码，report为报告
-
 1.运行源代码所需要执行的命令
 
 1）程序界面运行main.py即可，操作见gui中的按钮。
